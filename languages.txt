@@ -1,5 +1,4 @@
-Look a change2!
-
-python
-javascript
-c++
+programming languages:
+python - strong
+javascript - strong
+c++ - weak
